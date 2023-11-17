@@ -18,4 +18,8 @@ P.S. Oggi come avete potuto notare, avrete due blocchi di slides
 2. chiedi il cognome
 3. chiedi il suo colore preferito
 4. aggiungi tutto con + 23
+5. aggiungi età
+    5.1 chiedi anno di nascita
+    5.2 sottrai anno attuale ad anno di nascita
+6. somma nome + cognome + colore preferito + età
 

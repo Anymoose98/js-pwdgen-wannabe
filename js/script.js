@@ -19,6 +19,17 @@ let password = (nome + cognome + colore + 23);
 console.log(password);
 document.getElementById('password').innerHTML = document.getElementById('password').innerHTML + password;
 
+// età
+let anno_nascita = prompt("In che anno sei nato?");
+let età = (2023 - anno_nascita);
+console.log(età);
+
+// password 2 
+let password2 = (nome + cognome + colore + età);
+document.getElementById('password2').innerHTML = document.getElementById('password2').innerHTML + password2;
+
+
+
 
 
 
