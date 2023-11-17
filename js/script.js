@@ -21,12 +21,12 @@ document.getElementById('password').innerHTML = document.getElementById('passwor
 
 // età
 let anno_nascita = prompt("In che anno sei nato?");
-let età = (2023 - anno_nascita);
-console.log(età);
-document.getElementById('età').innerHTML = document.getElementById('età').innerHTML + età;
+let eta = (2023 - anno_nascita);
+console.log(eta);
+document.getElementById('età').innerHTML = document.getElementById('età').innerHTML + eta;
 
 // password 2 
-let password2 = (nome + cognome + colore + età);
+let password2 = (nome + cognome + colore + eta);
 document.getElementById('password2').innerHTML = document.getElementById('password2').innerHTML + password2;
 
 
