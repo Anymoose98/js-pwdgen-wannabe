@@ -13,3 +13,9 @@ Tre push obbligatori:
 Suddividete il problema in sottoproblemi come vi ho fatto vedere per il live coding sul calcolo della data di nascita e messaggio di benvenuto mostrato in pagina
 Buon lavoro e buon weekend, a lunedì!
 P.S. Oggi come avete potuto notare, avrete due blocchi di slides
+
+1. chiedi il nome
+2. chiedi il cognome
+3. chiedi il suo colore preferito
+4. aggiungi tutto con + 23
+
